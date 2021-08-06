@@ -25,6 +25,7 @@ router.get('/new', (req, res) => {
 })
 
 router.post('/', validateCampground, catchAsync(async (req, res, next) => {
+        req.flash('success', 'Successfully made a new Campground!');
         // if (!req.body.campground) throw new ExpressError('Incalid Campground Data', 400); basic
         const campground = new Campground(req.body.campground);
         await campground.save();
