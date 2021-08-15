@@ -32,12 +32,12 @@ const seedDB = async () => {
             price,
             images: [
                 {
-                    url: 'https://res.cloudinary.com/durah9zst/image/upload/v1628951265/YelpCamp/x6aai6bjn0xkqpsbxsrg.jpg',
-                    filename: 'YelpCamp/x6aai6bjn0xkqpsbxsrg'
+                    url: 'https://res.cloudinary.com/durah9zst/image/upload/v1628952759/YelpCamp/kdjdkashbxcx4cyqrofm.jpg',
+                    filename: 'YelpCamp/kdjdkashbxcx4cyqrofm'
                 },
                 {
-                    url: 'https://res.cloudinary.com/durah9zst/image/upload/v1628951266/YelpCamp/hmauredx2nyk5hidklcx.jpg',
-                    filename: 'YelpCamp/hmauredx2nyk5hidklcx'
+                    url: 'https://res.cloudinary.com/durah9zst/image/upload/v1628951328/YelpCamp/tmxm2vbwsecjjc5lrc9q.jpg',
+                    filename: 'YelpCamp/tmxm2vbwsecjjc5lrc9q'
                 }
             ]
         })
