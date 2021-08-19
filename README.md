@@ -1,6 +1,17 @@
 # TheWebDeveloperBootcamp2021-YelpCamp
+CRUD, Middleware
+MVC
+Bootsrtap 5
+Handling Errors
+Errors & Validating Data
+Restructuring & Flash
+Authentication
+Image Upload
+Adding Maps, Cluster Map
+Security Issues
+Deploying
 
-## dependencies
+## Dependencies
 * "@mapbox/mapbox-sdk": "^0.13.1", 地圖服務
 * "cloudinary": "^1.26.3", 雲端影像處理平台
 * "connect-flash": "^0.1.1", 顯示錯誤或成功訊息
@@ -22,5 +33,5 @@
 * "passport-local-mongoose": "^6.1.0",
 * "sanitize-html": "^2.4.0" sanitize-html provides a simple HTML sanitizer with a clear API
 
-## 部署上線
+## 部署上線(Heroku)
 * [YelpCamp](https://fierce-escarpment-99066.herokuapp.com/)
