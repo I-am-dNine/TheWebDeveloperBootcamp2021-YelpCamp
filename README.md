@@ -1,15 +1,5 @@
 # TheWebDeveloperBootcamp2021-YelpCamp
-CRUD, Middleware
-MVC
-Bootsrtap 5
-Handling Errors
-Errors & Validating Data
-Restructuring & Flash
-Authentication
-Image Upload
-Adding Maps, Cluster Map
-Security Issues
-Deploying
+CRUD, Middleware, MVC, Bootsrtap 5, Handling Errors, Errors & Validating Data, Restructuring & Flash, Authentication, Image Upload, Adding Maps, Cluster Map, Security Issues, Deploying
 
 ## Dependencies
 * "@mapbox/mapbox-sdk": "^0.13.1", 地圖服務
